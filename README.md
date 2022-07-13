@@ -3,6 +3,8 @@ Kodluyoruz - React Homework 4
 
 Subject: Testing
 
+Note: I only coded "src/tests" folder. Other parts of project are not coded by me.
+
 Emoji Search
 ---
 
